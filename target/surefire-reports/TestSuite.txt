@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 115.331 s <<< FAILURE! - in TestSuite
+verifySpreadSheetData(com.tests.automationTest)  Time elapsed: 54.518 s  <<< FAILURE!
+java.lang.AssertionError: 
+	at com.tests.automationTest.verifySpreadSheetData(automationTest.java:160)
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.tests.automationTest">
+        <methods>
+          <include name="verifySpreadSheetData" invocation-numbers="0"/>
+          <include name="bedoreSuite"/>
+          <include name="navigateToStash"/>
+          <include name="getSpreadSheetData"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.tests.automationTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
